@@ -11,7 +11,6 @@ namespace CoreLib
 
         #region 取字元
 
-
         /// <summary>
         /// 從右邊取幾個字元
         /// </summary>
